@@ -1,0 +1,4 @@
+MitoCoin
+========
+
+MitoCoin Project
